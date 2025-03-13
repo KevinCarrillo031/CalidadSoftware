@@ -35,5 +35,6 @@ function enviarSolicitud() {
 }
 
 
+
 window.catalogo = catalogo;
 window.enviarSolicitud = enviarSolicitud;
