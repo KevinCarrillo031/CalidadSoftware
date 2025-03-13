@@ -30,10 +30,9 @@ function enviarSolicitud() {
 
 
   eval("alert('Solicitud para ' + nombre + ' en el programa ' + programaId)");
-
-
-  return;
   alert("Esta alerta nunca se mostrará");
+  
+  return;
 }
 
 
