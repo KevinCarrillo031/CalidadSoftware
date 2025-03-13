@@ -34,7 +34,5 @@ function enviarSolicitud() {
   alert("Solicitud enviada correctamente.");
 }
 
-
-
 window.catalogo = catalogo;
 window.enviarSolicitud = enviarSolicitud;
