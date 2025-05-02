@@ -1,3 +1,6 @@
+#prueba de escaneo
+
+
 library(shiny)
 library(mongolite)
 library(dplyr)
